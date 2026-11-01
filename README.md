@@ -1,6 +1,31 @@
-# QuoteCraft flutter starter
+<div align="center">
 
-A Hello World source starter for learning app development. It does not create quotes, invoices or APKs yet.
+# QuoteCraft Flutter Starter
+
+**A minimal Flutter starting point for learning cross-platform development.**  
+Part of the QuoteCraft Studio development collection.
+
+![Stack](https://img.shields.io/badge/Stack-Flutter%20%C2%B7%20Dart-23647A)
+![Status: Source starter](https://img.shields.io/badge/Status-Source%20starter-64748B)
+
+[QuoteCraft Studio](https://quotecraftstudio.ca) · [Source](./source) · [Releases](https://github.com/QuoteCraftStudio/quotecraft-flutter-starter/releases)
+
+</div>
+
+---
+
+## About this starter
+
+A Hello World **source starter**, not a finished QuoteCraft quoting application. The included PowerShell script generates the platform project using the official Flutter tooling and copies in the supplied starter screen.
+
+**Target environment:** Android, web, and Windows project generation.
+
+### What's included
+
+- `source/` — supplied sample application code.
+- `setup.ps1` — Windows project generation and setup helper.
+- `AGENTS.md` — project development and protection rules.
+- The original setup, run, and verification instructions below are preserved.
 
 ## Setup on Windows
 
@@ -38,3 +63,12 @@ Commit this starter first. After successful setup, commit the generated `app/` p
 The supplied source files and archive have been checked structurally. The official generators and app builds have not been run here because the required SDKs and package downloads are unavailable in this environment. This is a setup-ready source starter, not a fully generated or build-tested app.
 
 Official documentation: https://docs.flutter.dev/install
+
+
+## GitHub Releases
+
+**[Release page](https://github.com/QuoteCraftStudio/quotecraft-flutter-starter/releases)** — No tested installer or packaged application is published as a GitHub Release. Please follow the source setup instructions above.
+
+## QuoteCraft Studio
+
+[quotecraftstudio.ca](https://quotecraftstudio.ca) · **support@QuoteCraftStudio.ca**
